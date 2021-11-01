@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.exe
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.deps.json
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.runtimeconfig.json
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.dll
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\bin\Debug\netcoreapp3.1\payroll-system.pdb
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.AssemblyInfo.cs
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.dll
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.pdb
+C:\Users\Michael\Documents\Coding practice\C#\payroll-system\obj\Debug\netcoreapp3.1\payroll-system.genruntimeconfig.cache
