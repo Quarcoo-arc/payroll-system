@@ -146,9 +146,9 @@ namespace payroll_system
             // Write out the Employees in the list. This will call the overridden ToString method
             // in the Employee class.
             Console.WriteLine();
-            foreach (Employee aEmployee in Employees)
+            foreach (Employee anEmployee in Employees)
             {
-                Console.WriteLine(aEmployee);
+                Console.WriteLine(anEmployee);
             }
 
             //Creating a list of Ranks
